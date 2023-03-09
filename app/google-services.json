@@ -1,0 +1,97 @@
+{
+  "project_info": {
+    "project_number": "357485999015",
+    "project_id": "cloud-lectures-81817",
+    "storage_bucket": "cloud-lectures-81817.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:357485999015:android:9f7988b3fbb630b9e67c82",
+        "android_client_info": {
+          "package_name": "com.example.assignment1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "357485999015-mt68id0d067ip05ch0206ci36nvna702.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4R9qkGlR0kAmSlyXHinIXBP86sjujLe8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "357485999015-mt68id0d067ip05ch0206ci36nvna702.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:357485999015:android:4e2fb2056f57639be67c82",
+        "android_client_info": {
+          "package_name": "com.example.cloudlecone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "357485999015-mt68id0d067ip05ch0206ci36nvna702.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4R9qkGlR0kAmSlyXHinIXBP86sjujLe8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "357485999015-mt68id0d067ip05ch0206ci36nvna702.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:357485999015:android:5fdb05324bbdb0efe67c82",
+        "android_client_info": {
+          "package_name": "com.example.realtimeactivity"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "357485999015-mt68id0d067ip05ch0206ci36nvna702.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4R9qkGlR0kAmSlyXHinIXBP86sjujLe8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "357485999015-mt68id0d067ip05ch0206ci36nvna702.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
